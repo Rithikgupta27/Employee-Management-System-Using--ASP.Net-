@@ -1,3 +1,8 @@
+Software Description: Employee Management System
+
+The Employee Management System is a web-based application developed using ASP.NET framework, designed to streamline and automate the management of employee-related tasks within an organization. This system provides functionalities to perform tasks such as adding, deleting, updating, and reading employee information.
+
+
 project set up
 Step After Cloning The Project and Opening It In Visual Studio 2022
 Step 1:- 
